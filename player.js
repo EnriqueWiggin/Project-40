@@ -35,9 +35,5 @@ class Player {
         })
     }
 
-    if(Player=300) {
-        player.score = player.score + 1;
-    }
-
     
 }
